@@ -1,0 +1,1 @@
+This repository demonstrates a potential bug in Ruby related to modifying attribute values through getter methods. The `bug.rb` file contains code that attempts to modify an attribute using the getter method, which may result in a NoMethodError in some cases. The `bugSolution.rb` file provides a solution to this issue.
